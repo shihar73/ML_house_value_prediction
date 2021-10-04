@@ -12,14 +12,14 @@ This model has been tested with more than two Algorithms
 - Random Forest Regression
 
 ## Model Outputs
- Decision Tree:
-  Mean:  4.189504502474483
-  Standard deviation:  0.848096620323756
+- Decision Tree:
+   Mean:  4.189504502474483
+   Standard deviation:  0.848096620323756
 
- Linear Regression:
-  Mean:  4.221894675406022
-  Standard deviation:  0.7520304927151625
+- Linear Regression:
+   Mean:  4.221894675406022
+   Standard deviation:  0.7520304927151625
 
- Random Forest Regression
-  Mean:  3.494650261111624
-  Standard deviation:  0.762041223886678
+- Random Forest Regression
+   Mean:  3.494650261111624
+   Standard deviation:  0.762041223886678
