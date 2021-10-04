@@ -1,4 +1,4 @@
-# 🤖�House price predicting ML model
+# 🤖 House price predicting ML model
 
 
 ## About
